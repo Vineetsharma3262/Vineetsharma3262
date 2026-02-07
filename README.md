@@ -47,9 +47,14 @@
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Most Used Technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vineetsharma3262&layout=compact&theme=radical)
+- JavaScript / TypeScript – React Ecosystem  
+- Next.js & Server Side Rendering  
+- Redux Toolkit & State Management  
+- Tailwind CSS / Material UI  
+- Node.js & REST APIs  
+- PostgreSQL / MongoDB
 
 ---
 
