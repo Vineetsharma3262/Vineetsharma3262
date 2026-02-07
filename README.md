@@ -29,7 +29,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-9B2739?style=for-the-badge&logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/MUI-45444E?style=for-the-badge&logo=mui)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-![Micro Frontends](https://img.shields.io/badge/Micro%20Frontends-D999B9?style=for-the-badge&logo=graphql)
+![Micro Frontends](https://img.shields.io/badge/Micro%20Frontends-D999B9?style=for-the-badge&logo=microfrontend)
 
 
 ### Backend & Cloud
