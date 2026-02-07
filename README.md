@@ -78,7 +78,7 @@
 ## 🌐 Connect With Me
 
 - 📧 Email: **vineetsharma2030@gmail.com**  
-- 💼 LinkedIn: https://linkedin.com/in/vineet-sharma  
+- 💼 LinkedIn: https://www.linkedin.com/in/vineet-sharma-a77389168
 - 📱 Phone: +91 9958103262
 
 ---
