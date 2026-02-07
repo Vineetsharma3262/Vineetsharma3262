@@ -1,15 +1,22 @@
 # 👋 Hi, I'm Vineet Sharma
 
-**Senior Frontend Developer | React | Next.js | TypeScript | AI-Powered Web Apps**
+![Profile Views](https://komarev.com/ghpvc/?username=Vineetsharma3262&color=blue)
 
-🚀 5.6+ years of experience building high-performance, scalable, and accessible web applications with a focus on modern frontend architecture, conversational AI interfaces, and enterprise dashboards.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vineetsharma3262&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Senior Frontend Developer  
+**React | Next.js | TypeScript | AI-Powered Web Apps**
+
+💡 5.6+ years of experience building high-performance, scalable, and accessible web applications with a focus on modern frontend architecture, conversational AI interfaces, and enterprise dashboards.
 
 ---
 
 ## 💼 Professional Snapshot
 
 - ⚡ Optimized UI performance delivering **40%+ speed improvements**
-- 🧠 Built **AI-powered conversational platforms** with streaming responses
+- 🤖 Built **AI-powered conversational platforms** with streaming responses
 - 🎨 Expert in **Material UI, Tailwind, Redux Toolkit, React Query**
 - ♿ WCAG 2.1 compliant, accessible, responsive interfaces
 - 🧪 Strong testing culture with Jest & RTL
@@ -19,21 +26,33 @@
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React.js • Next.js • TypeScript  
-- Redux Toolkit • Recoil • React Query  
-- Material UI • Tailwind CSS • SCSS  
-- GraphQL • Apollo Client • Storybook  
-- Micro Frontends • i18n • Accessibility (WCAG 2.1)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
-**Backend & DB**
-- Node.js • Express.js  
-- PostgreSQL • MongoDB • MySQL
+### Backend & Cloud
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
 
-**Tools & Platforms**
-- Git • AWS • GCP • CI/CD  
-- Webpack • Babel • Lighthouse  
-- Jira • Postman • Figma
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vineetsharma3262&layout=compact&theme=radical)
 
 ---
 
@@ -65,7 +84,7 @@
 
 ---
 
-## 📈 What I Focus On
+## 🎯 What I Focus On
 
 - Clean & scalable architecture  
 - Performance optimization  
@@ -77,11 +96,13 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: **vineetsharma2030@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/vineet-sharma-a77389168
-- 📱 Phone: +91 9958103262
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vineet-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vineet-sharma-a77389168)
+
+[![Gmail](https://img.shields.io/badge/Gmail-vineetsharma-red?style=for-the-badge&logo=gmail)](mailto:vineetsharma2030@gmail.com)
+
+📱 Phone: +91 9958103262
 
 ---
 
 ### 📌 Open to:
-Senior Frontend / UI Engineer | React Lead | AI Frontend Roles
+**Senior Frontend / UI Engineer | React Lead | AI Frontend Roles**
