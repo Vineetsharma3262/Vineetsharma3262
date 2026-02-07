@@ -34,16 +34,16 @@
 
 ### Backend & Cloud
 ![Node](https://img.shields.io/badge/Node.js-213460?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-214747?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-270E1B?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-305058?style=for-the-badge&logo=mongodb)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![GCP](https://img.shields.io/badge/GCP-45444E?style=for-the-badge&logo=google-cloud)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-27243E?style=for-the-badge&logo=git)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Webpack](https://img.shields.io/badge/Webpack-380B0B?style=for-the-badge&logo=webpack)
+![Figma](https://img.shields.io/badge/Figma-4C1A22?style=for-the-badge&logo=figma)
 
 ---
 
