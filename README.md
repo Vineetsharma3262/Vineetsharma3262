@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Vineet Sharma
 
----
 
 ## 🚀 Senior Frontend Developer  
 **React | Next.js | TypeScript | AI-Powered Web Apps**
