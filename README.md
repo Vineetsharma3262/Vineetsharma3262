@@ -23,12 +23,14 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-531B37?style=for-the-badge&logo=typescript)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui)
+![Redux Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-9B2739?style=for-the-badge&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/MUI-45444E?style=for-the-badge&logo=mui)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Micro Frontends](https://img.shields.io/badge/Micro%20Frontends-D999B9?style=for-the-badge&logo=graphql)
+
 
 ### Backend & Cloud
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
